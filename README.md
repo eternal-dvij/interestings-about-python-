@@ -1,4 +1,4 @@
-# interestings-about-python-
+# Interestings-about-python-
 Here are some interesting things about python
 
 
