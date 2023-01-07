@@ -31,3 +31,5 @@ type(inj)
 <br>hello zbcg hi
 
 int
+
+## explore more in jupyter for this (hint: out in jupyter)
