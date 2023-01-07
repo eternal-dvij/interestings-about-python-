@@ -28,6 +28,6 @@ type(inj)
 ```
 # output:
 <class 'str'>
-hello zbcg hi
+<br>hello zbcg hi
 
 int
