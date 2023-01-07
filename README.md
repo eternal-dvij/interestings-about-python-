@@ -35,14 +35,14 @@ int
 ### explore more in jupyter for this (hint: out in jupyter)
 
 
-#indexing and slicing, start index could be greater than the length of string but it will just fetch the result from the last(no matter if it is greater)
+# indexing and slicing, start index could be greater than the length of string but it will just fetch the result from the last(no matter if it is greater)
 ```python
 v = 'hello xyz'
 i = "hello zbcg hi"
 i[19:0:-1]
 
 ```
-# output:
+## output:
 'ih gcbz olle'
 
 
