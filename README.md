@@ -52,7 +52,7 @@ i[19:0:-1]
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## jupyter objection- if you have used function in the end then at "out" it will show only that
+## jupyter objection- if you have used a function in the end of block then at "out" it will show result of only that
 e.g:
 ```python
 v = 'hello xyz'
