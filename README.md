@@ -4,10 +4,30 @@ Here are some interesting things about python
 
 
 ## DataStructures
-## Python have these bilt-in data structures: list- [],dictionary- {"key":value},tuples- () and set- {}
+## Python have these bilt-in data structures: list- [],dictionary- {"key":value},tuples- () and set- {} {the miracle still not updated here)
 ```python
 s = "hello you there! see the python miracle"
 x = list[s]
 set(x)
 
 ```
+
+
+# type() function in python (POV JUPYTER)
+## if you are using type() anytimes in a single block of code, it will output the result for the last called type() as below:
+
+```python
+v = 'hello xyz'
+i = "hello zbcg hi"
+inj = 67
+print(type(v))
+print(i)
+type(i)
+type(inj)
+
+```
+# output:
+<class 'str'>
+hello zbcg hi
+
+int
