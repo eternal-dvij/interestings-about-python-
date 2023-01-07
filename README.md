@@ -46,3 +46,16 @@ i[19:0:-1]
 'ih gcbz olle'
 
 
+# jupyter objection- if you have used function in the end then at "out" it will show only that
+e.g:
+```python
+v = 'hello xyz'
+i = "hello zbcg hi"
+inj = 67
+i[19:0:-2]
+len(i)
+
+```
+
+## output
+13
