@@ -4,7 +4,7 @@ Here are some interesting things about python
 
 
 ## DataStructures
-## Python have these bilt-in data structures: list- [],dictionary- {"key":value},tuples- () and set- {} {the miracle still not updated here)
+### Python have these bilt-in data structures: list- [],dictionary- {"key":value},tuples- () and set- {} {the miracle still not updated here)
 ```python
 s = "hello you there! see the python miracle"
 x = list[s]
@@ -15,8 +15,8 @@ set(x)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# type() function in python (POV JUPYTER)
-## if you are using type() anytimes in a single block of code, it will output the result for the last called type() as below:
+## type() function in python (POV JUPYTER)
+### if you are using type() anytimes in a single block of code, it will output the result for the last called type() as below:
 
 ```python
 v = 'hello xyz'
@@ -28,31 +28,31 @@ type(i)
 type(inj)
 
 ```
-# output:
+#### output:
 <class 'str'>
 <br>hello zbcg hi
 
 int
 
-### explore more in jupyter for this (hint: out in jupyter)
+#### explore more in jupyter for this (hint: out in jupyter)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# indexing and slicing, start index could be greater than the length of string but it will just fetch the result from the last(no matter if it is greater)
+### indexing and slicing, start index could be greater than the length of string but it will just fetch the result from the last(no matter if it is greater)
 ```python
 v = 'hello xyz'
 i = "hello zbcg hi"
 i[19:0:-1]
 
 ```
-## output:
+#### output:
 'ih gcbz olle'
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# jupyter objection- if you have used function in the end then at "out" it will show only that
+## jupyter objection- if you have used function in the end then at "out" it will show only that
 e.g:
 ```python
 v = 'hello xyz'
@@ -63,5 +63,5 @@ len(i)
 
 ```
 
-## output
+#### output
 13
