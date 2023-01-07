@@ -32,4 +32,4 @@ type(inj)
 
 int
 
-## explore more in jupyter for this (hint: out in jupyter)
+### explore more in jupyter for this (hint: out in jupyter)
